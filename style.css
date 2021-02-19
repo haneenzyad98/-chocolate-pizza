@@ -1,0 +1,177 @@
+html{
+    margin: 50px;
+}
+*{
+    box-sizing:border-box;
+    /* margin: 16px; */
+  }
+
+#flo{
+    float: right;
+    margin-top: 25px;
+  
+}
+#he{
+    /* float: left; */
+    /* float: right; */
+}
+#tex1{
+    /* margin-left: 70px; */
+    margin-top: 0px;
+    margin: 0px;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Yellowtail', cursive;
+}
+.delthe{
+    /* margin-top: 0px;
+    margin: 0px; */
+    float: left;
+    margin-left: 15px;
+}
+#logo{
+    float: left;
+    width: 70px;
+    margin-top: 15px;
+}
+#tex2{
+    color: grey;
+    
+}
+#min{
+    margin: 0px;
+    font-size: 60px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+}
+#min2{
+    margin: 0px;
+    font-size: 16px;
+    color: grey;
+}
+#pr{
+    float: right;
+   width: 20px;
+}
+#coc{
+    background-image: url(img/choco-pizza.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+#para{
+    font-size: x-large;
+    
+}
+#lis{
+    background-image: url(img/list-bg.png) ;
+   height: 600px;
+   background-size: cover;
+   background-repeat: no-repeat;
+   font-family: 'Patrick Hand', cursive;
+   font-size: 30px;
+   color: 	#696969;
+}
+#rep{
+    background-image: url(img/hr-img.png);
+    height: 17px;
+}
+#rep2{
+    background-image: url(img/hr-img.png);
+    height: 17px;
+}
+
+#vi{
+    /* font-size: 30px; */
+    /* margin-left: 100px;
+    margin-top: 0px; */
+    float: left;
+}
+/* #end{
+    font-size: 20px;
+    margin-left: 100px;
+    width: 10px;
+   
+} */
+#foo{
+/* float: right;
+margin-right:450px; */
+
+}
+#btn{
+    float: right;
+    padding: 18px 35px;
+    background-color: #CD5C5C;
+    font-size: 16px;
+    color: white;
+    
+}
+#van{
+   height: 70px;
+   float: left;
+}
+.line{
+    /* background-image: url("hr-image.png"); */
+    text-size-adjust: 6px;
+    background-color: rgba(100,100,100,0.1);
+    font-weight: 100;
+
+  }
+  #sm{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+   
+    }
+.ico{
+        margin: 0%;
+    }
+#he{
+        margin: 0;
+    }
+
+li{
+    overflow: hidden;
+}
+#chelif{
+    margin-left: 100px;
+    float: left;
+}
+#cherigh{
+    float: right;
+    margin-right: 100px;
+}
+button{
+    float: right;
+}
+#line{
+    
+    background-color: rgba(100,100,100,0.1);
+   
+}
+#theend{
+    text-align: center;
+    color: grey;
+    font-size: x-large;
+}
+#para{
+color:#808080;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
